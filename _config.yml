@@ -1,0 +1,235 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Charantej Reddy Pochimireddy
+email: ee18resch01010@iith.ac.in
+description: >- # this means to ignore newlines until "baseurl:"
+  Charantej Reddy Pochimireddy- Research Scholor at IIT Hyderabad
+domain: charantej92.github.io
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: https://charantej92.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+github_username:  charantej92
+repository: "charantej92/charantej92.github.io"
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-feed
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name             : "Charantej Reddy Pochimireddy"
+  avatar           : "/images/charan.jpg"
+  bio              : "Research Scholar, IIT Hyderabad"
+  location         : "Block B 215, IITH"
+ # employer         :
+ # email            : "ee18resch01010@iith.ac.in"
+ # github           : "charantej92"
+ # twitter          : ""
+ # linkedin         : ""
+
+  links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: ""
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ee18resch01010@iith.ac.in"
+    # googlescholar    : 
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: ""
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/charantej92"
+    - label: "Scholar"
+      #icon: "ai ai-google-scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=aJKcvHEAAAAJ&hl=en"
+    # - label: "ORCID"
+    #   icon: "ai ai-orcid"
+    #   url: "https://orcid.org/0000-0002-2565-7696"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/charantej-reddy-4b354b101/"
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/files/CV_Charan.pdf"
+
+# Site Footer
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: ""
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://charantej92.github.io/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://www.instagram.com/i_charantej/"
+#     - label: "LinkedIn"
+#      icon: "fab fa-linkedin"
+#      url: "https://www.linkedin.com/in/charantej-reddy-4b354b101/"
+#     - label: "Stack Overflow"
+#      icon: "fab fa-fw fa-stack-overflow"
+#      url: "https://stackoverflow.com/users/82540"
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+include:
+  - _pages
+  - files
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# hide RSS feed
+atom_feed:
+  hide: true
+
+
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-DGQ7BQQ1DV"
+#     anonymize_ip: false # default
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
