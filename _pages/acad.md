@@ -26,4 +26,4 @@ GPA: 7.7/10
 ## Services and Recognition
 <!-- {: style="font-size:.85em; color: #7a8288;"} -->
 <!-- --- -->
-- Winner of the [Qualcomm Innovation Fellowship]("https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india")
+- Winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india)
