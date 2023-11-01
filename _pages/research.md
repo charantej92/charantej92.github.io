@@ -10,9 +10,9 @@ classes: wide
 {: style="font-size:1.2em; color: #7a8288;"}
 ---
 
- The significance and prevalence of the FFT algorithm cannot be emphasized enough. As datasets continue to grow in size, there is a demand to lower the complexity below the traditional FFT's $O(N \log N)$ bound. A crucial aspect is to recognize and leverage scenarios that impact the DFT coefficients. With this in consideration, I pose the following inquiry:
+ The significance and prevalence of the FFT algorithm cannot be emphasized enough. As datasets continue to grow in size, there is a demand to lower the complexity below the traditional FFT's $$O(N \log N)$$ bound. A crucial aspect is to recognize and leverage scenarios that impact the DFT coefficients. With this in consideration, I pose the following inquiry:
 
-"Which structures on the frequency support, of size $k$, allow for a computational complexity of $O(k\log k)$?" ([details](https://arxiv.org/abs/2211.15299))
+"Which structures on the frequency support, of size $k$, allow for a computational complexity of $$O(k\log k)$$?" ([details](https://arxiv.org/abs/2211.15299))
         
 #### Publications on Fourier Analysis
 {: style="font-size:1.0em;"}
