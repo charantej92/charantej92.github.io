@@ -12,13 +12,12 @@ classes: wide
 
  The significance and prevalence of the FFT algorithm cannot be emphasized enough. As datasets continue to grow in size, there is a demand to lower the complexity below the traditional FFT's $O(N \log N)$ bound. A crucial aspect is to recognize and leverage scenarios that impact the DFT coefficients. With this in consideration, I pose the following inquiry:
 
-"Which structures on the frequency support, of size $k$, allow for a computational complexity of $O(k\log k)$?" ([details](https://arxiv.org/abs/2211.15299))
+"Which structures on the frequency support, of size $k$, allow for a computational complexity of $O(k\log k)$?" ([details](https://ieeexplore.ieee.org/document/10308632))
         
 #### Publications on Fourier Analysis
 {: style="font-size:1.0em;"}
 
-- *Fast DFT Computation for Signals with Structured Support*  Charantej Reddy P, Aditya Siripuram, Brad Osgood
-arXiv preprint [arXiv:2211.15299](https://arxiv.org/abs/2211.15299) (2022).
+- *Fast DFT Computation for Signals with Structured Support*  Charantej Reddy P, Aditya Siripuram, Brad Osgood IEEE Transactions on Information Theory (2023), pp. 1–1. [online](https://ieeexplore.ieee.org/document/10308632) (2022).
 - *Computing the Discrete Fourier Transform of signals with spectral frequency support*  PC Reddy, VSSP Tej, A Siripuram, B Osgood
 2021 IEEE International Symposium on Information Theory (ISIT), 2381-2386 ([online](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9518104))
 - *Fast DFT computation for signals with spectral support* PC Reddy, VSSP Tej, A Siripuram
