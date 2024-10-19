@@ -10,7 +10,7 @@ classes: wide
 <!-- {: style="font-size:.85em; color: #7a8288;"} -->
 ---
 
-- *Ph.D. in Electrical Engineering*, *2018-*  
+- *Ph.D. in Electrical Engineering*, *2018-2024*  
 Indian Institute of Technology Hyderabad and Swinburne University of Technology, Melbourne  
 GPA: 9.5/10
 
@@ -26,4 +26,5 @@ GPA: 7.7/10
 ## Services and Recognition
 <!-- {: style="font-size:.85em; color: #7a8288;"} -->
 <!-- --- -->
+- ISIT 2024 Travel Grant
 - Winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2021-india)

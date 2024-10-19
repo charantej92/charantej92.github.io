@@ -11,25 +11,38 @@ classes: wide
 
 
 <div class="gallery-scroll">
+  <a href="/images/travel/greece_2.jpg" title="Athens Parthenon" class="image-popup">
+    <img class="gallery-img" src="/images/travel/thumbnails/greece_2.jpg" alt="Athens Parthenon">
+  </a>
+  <a href="/images/travel/greece_1.jpg" title="Athens" class="image-popup">
+    <img class="gallery-img" src="/images/travel/thumbnails/greece_1.jpg" alt="Athens">
+  </a>
+  <a href="/images/travel/beaver_1.jpg" title="Beaver Stadium" class="image-popup">
+    <img class="gallery-img" src="/images/travel/thumbnails/beaver_1.jpg" alt="Beaver Stadium">
+  </a>
+  <a href="/images/travel/beaver_2.jpg" title="Beaver Stadium" class="image-popup">
+    <img class="gallery-img" src="/images/travel/thumbnails/beaver_2.jpg" alt="Beaver Stadium">
+  </a>
   <a href="/images/travel/melstreets.jpg" title="Melbourne streets" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/melstreets.jpg" alt="Melbourne streets">
   </a>
-    <a href="/images/travel/Boston.jpg" title="Boston" class="image-popup">
+   <!-- <a href="/images/travel/Boston.jpg" title="Boston" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/Boston.jpg" alt="Boston">
-   </a> 
+   </a> -->
   <a href="/images/travel/12apostles.jpg" title="The Twelve Apostles" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/12apostles.jpg" alt="The Twelve Apostles">
   </a>
-     <a href="/images/travel/MIT.jpg" title="Boston" class="image-popup">
+    <!-- <a href="/images/travel/MIT.jpg" title="Boston" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/MIT.jpg" alt="MIT">
-   </a> 
+   </a> -->
   <a href="/images/travel/philip.jpg" title="Phillip Island" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/philip.jpg" alt="Phillip Island">
   </a>
+  <!--
     <a href="/images/travel/MCG_1.jpg" title="Melbourne Cricket Ground" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/MCG_1.jpg" alt="Melbourne Cricket Ground">
-  </a>
-    <a href="/images/travel/philip.jpg" title="Melbourne Cricket Ground" class="image-popup">
+  </a> -->
+    <a href="/images/travel/MCG_2.jpg" title="Melbourne Cricket Ground" class="image-popup">
     <img class="gallery-img" src="/images/travel/thumbnails/MCG_2.jpg" alt="Melbourne Cricket Ground">
   </a>
 </div>
@@ -43,9 +56,9 @@ classes: wide
   <a href="/images/sports/bits_1.jpg" title="cricket" class="image-popup"> 
     <img class="gallery-img" src="/images/sports/thumbnails/bits_1.jpg" alt="cricket">
   </a>
-    <a href="/images/sports/bits_2.jpg" title="cricket" class="image-popup"> 
+ <!--   <a href="/images/sports/bits_2.jpg" title="cricket" class="image-popup"> 
     <img class="gallery-img" src="/images/sports/thumbnails/bits_2.jpg" alt="cricket">
-  </a>
+  </a>-->
   <a href="/images/sports/c_1.jpg" title="cricket" class="image-popup">
     <img class="gallery-img" src="/images/sports/thumbnails/c_1.jpg" alt="cricket">
   </a>

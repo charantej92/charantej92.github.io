@@ -6,6 +6,17 @@ author_profile: true
 classes: wide
 ---
 
+### Computer Vision
+{: style="font-size:1.2em; color: #7a8288;"}
+---
+
+#### Child Eye
+This research aims to leverage infants' spatial learning and visual experiences to enhance computer vision algorithms, addressing the shortcomings of current systems compared to human children. We investigate whether training models from a child's perspective can improve AI's effectiveness in interpreting real-world scenes.
+
+
+#### 3D stomata segmentation 
+Stomata are microscopic pores on plant surfaces that regulate photosynthesis in crops essential for food and sustainable materials. This research seeks to automate the 3D segmentation of stomatal guard cells from confocal microscopy data, overcoming challenges such as hardware limitations, difficult localization, and low optical resolution to enable accurate measurement of their morphology for studying physiology and biomechanics.
+
 ### Fourier Analysis
 {: style="font-size:1.2em; color: #7a8288;"}
 ---
@@ -29,7 +40,7 @@ classes: wide
 {: style="font-size:1.2em; color: #7a8288;"}
 ---
 
-The phenomenon of carefully crafted imperceptible perturbations causing misclassification in state-of-the-art deep learning models is widely acknowledged. Analyzing and comprehending these adversarial perturbations is vital for developing robust convolutional neural networks. However, their underlying mechanisms remain insufficiently understood. I am currently exploring the following question:
+The phenomenon of carefully crafted imperceptible perturbations causing misclassification in state-of-the-art deep learning models is widely acknowledged. Analyzing and comprehending these adversarial perturbations is vital for developing robust convolutional neural networks. However, their underlying mechanisms remain insufficiently understood. I explored the following question:
 
 "Is there any relationship between the imperceptibility and semantic significance of adversarial perturbations?" In other words, "can adversarial perturbations change only the regions of the image that are important for classification, while still being imperceptible?" ([details](https://ieeexplore.ieee.org/abstract/document/10073613))
 
