@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-I am a Post doctoral scholor at Penn State working with [James Wang](https://wang.ist.psu.edu/docs/home.shtml), [Brad Wyble](https://wyblelab.com/), and [Charles Anderson](https://science.psu.edu/bio/people/cta3). I got my joint Ph.D. at IIT Hyderabad and SUT Australia, where I was fortunate to be advised by [Aditya Siripuram](https://people.iith.ac.in/staditya/), and [Jingxin Zhang](https://experts.swinburne.edu.au/1746-jingxin-zhang). 
+I was a Post doctoral scholor at Penn State working with [James Wang](https://wang.ist.psu.edu/docs/home.shtml), [Brad Wyble](https://wyblelab.com/), and [Charles Anderson](https://science.psu.edu/bio/people/cta3). I got my joint Ph.D. at IIT Hyderabad and SUT Australia, where I was fortunate to be advised by [Aditya Siripuram](https://people.iith.ac.in/staditya/), and [Jingxin Zhang](https://experts.swinburne.edu.au/1746-jingxin-zhang). 
 
 
 <!---
