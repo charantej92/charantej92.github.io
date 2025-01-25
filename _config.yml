@@ -45,8 +45,8 @@ minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "da
 author:
   name             : "Charantej Reddy Pochimireddy"
   avatar           : "/images/charan.jpg"
-  bio              : "Post Doctoral Scholor, Penn State University"
-  location         : "West gate building E 370, State college"
+#  bio              : "Post Doctoral Scholor, Penn State University"
+ # location         : "West gate building E 370, State college"
  # employer         :
  # email            : "ee18resch01010@iith.ac.in"
  # github           : "charantej92"
