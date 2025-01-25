@@ -9,7 +9,7 @@ classes: wide
 
 ---
 
-- *Post doctoral scholor* (08- 2024)  
+- *Post doctoral scholor* (08-12 2024)  
 Penn State College of IST, USA  
 <!-- Working on problems in machine learning, deep learning, and computer vision, with
 intersection with psychology and biology. --> 
