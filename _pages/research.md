@@ -30,8 +30,8 @@ Stomata are microscopic pores on plant surfaces that regulate photosynthesis in 
 {: style="font-size:1.0em;"}
 
 - *Numerical Stability of DFT Computation for Signals with Structured Support* C. R. Pochimireddy, A. Siripuram and B. Osgood
-2024 IEEE International Symposium on Information Theory (ISIT), ([online]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9174204](https://ieeexplore.ieee.org/document/10619543)))
-- *Fast DFT Computation for Signals with Structured Support*  Charantej Reddy P, Aditya Siripuram, Brad Osgood IEEE Transactions on Information Theory (2023), pp. 1–1. [online](https://ieeexplore.ieee.org/document/10308632) (2022).
+2024 IEEE International Symposium on Information Theory (ISIT), ([online](https://ieeexplore.ieee.org/document/10619543))
+- *Fast DFT Computation for Signals with Structured Support*  Charantej Reddy P, Aditya Siripuram, Brad Osgood IEEE Transactions on Information Theory (2023), pp. 1–1. ([online](https://ieeexplore.ieee.org/document/10308632) (2022)).
 - *Computing the Discrete Fourier Transform of signals with spectral frequency support*  PC Reddy, VSSP Tej, A Siripuram, B Osgood
 2021 IEEE International Symposium on Information Theory (ISIT), 2381-2386 ([online](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9518104))
 - *Fast DFT computation for signals with spectral support* PC Reddy, VSSP Tej, A Siripuram
