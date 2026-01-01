@@ -10,6 +10,9 @@ classes: wide
 {: style="font-size:1.2em; color: #7a8288;"}
 ---
 
+#### AI-driven Enhancements in Camera Pipeline
+Ongoing research focuses on learning-based improvements across the ISP pipeline, including denoising, demosaicing, HDR, color correction, and tone mapping. Emphasis is placed on compact, efficient models optimized for real-time deployment on mobile and edge devices. The goal is to develop adaptive, sensor-aware ISP solutions that enhance image quality across diverse conditions.
+
 #### Child Eye
 This research aims to leverage infants' spatial learning and visual experiences to enhance computer vision algorithms, addressing the shortcomings of current systems compared to human children. We investigate whether training models from a child's perspective can improve AI's effectiveness in interpreting real-world scenes.
 
