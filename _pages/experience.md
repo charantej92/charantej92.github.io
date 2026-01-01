@@ -8,7 +8,8 @@ classes: wide
 
 
 ---
-- *Cheif Engineer* (05-  2025) 
+- *Cheif Engineer* (05-  2025)
+
 Samsung R&D Institute India, Bengaluru, India
 <!-- Developing AI based video/image quality enhancement algorithms. --> 
 
