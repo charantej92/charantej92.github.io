@@ -8,7 +8,7 @@ classes: wide
 
 
 ---
-- * Cheif Engineer* 05- 2025) 
+- *Cheif Engineer* (05- 2025) 
   Samsung R&D Institute India, Bengaluru, India
 
 - *Post doctoral scholor* (08-12 2024)  
