@@ -6,8 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-
-I was a Post doctoral scholor at Penn State working with [James Wang](https://wang.ist.psu.edu/docs/home.shtml), [Brad Wyble](https://wyblelab.com/), and [Charles Anderson](https://science.psu.edu/bio/people/cta3). I got my joint Ph.D. at IIT Hyderabad and SUT Australia, where I was fortunate to be advised by [Aditya Siripuram](https://people.iith.ac.in/staditya/), and [Jingxin Zhang](https://experts.swinburne.edu.au/1746-jingxin-zhang). 
+I am a cheif engineer with the AI based Video Processing Group, Samsung R&D Institute India, Bengaluru. I was a Post doctoral scholor at Penn State working with [James Wang](https://wang.ist.psu.edu/docs/home.shtml), [Brad Wyble](https://wyblelab.com/), and [Charles Anderson](https://science.psu.edu/bio/people/cta3). I got my joint Ph.D. at IIT Hyderabad and SUT Australia, where I was fortunate to be advised by [Aditya Siripuram](https://people.iith.ac.in/staditya/), and [Jingxin Zhang](https://experts.swinburne.edu.au/1746-jingxin-zhang). 
 
 
 <!---
@@ -23,10 +22,11 @@ I can be reached via email (charantejreddy.p [at] gmail.com).
 -->
 
 ### Research Interests
-Machine Learning, Deep Learning, Computer Vision, and Signal Processing.
+Signal Processing, Image processing, Computer Vision, Machine Learning, and Deep Learning.
 
 
 ### Recent News
+- (May 2025) Started as a cheif engineer at Samsung R&D Institute India, Bengaluru.
 - (AUG 2024) Started as a post doctoral scholor at Penn State University.
 - (July 2024) Paper on numerical stability of DFT computation accepted at ISIT 2024.
 - (May 2024) Started as Graduate Technical Intern at Intel.
