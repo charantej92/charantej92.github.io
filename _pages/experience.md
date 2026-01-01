@@ -8,8 +8,9 @@ classes: wide
 
 
 ---
-- *Cheif Engineer* (05- 2025) 
+- *Cheif Engineer* (05-  2025) 
 Samsung R&D Institute India, Bengaluru, India
+<!-- Developing AI based video/image quality enhancement algorithms. --> 
 
 - *Post doctoral scholor* (08-12 2024)  
 Penn State College of IST, USA  
