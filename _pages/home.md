@@ -26,6 +26,7 @@ Signal Processing, Image processing, Computer Vision, Machine Learning, and Deep
 
 
 ### Recent News
+- (Feb 2026) Paper on Low-Light Video Enhancement on Mobile Devices accepted at CVPR 2026.
 - (May 2025) Started as a cheif engineer at Samsung R&D Institute India, Bengaluru.
 - (AUG 2024) Started as a post doctoral scholor at Penn State University.
 - (July 2024) Paper on numerical stability of DFT computation accepted at ISIT 2024.
